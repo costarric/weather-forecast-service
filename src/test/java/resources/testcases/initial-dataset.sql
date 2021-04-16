@@ -1,0 +1,1 @@
+INSERT INTO weather (1, 'Leiria', 22.345)
